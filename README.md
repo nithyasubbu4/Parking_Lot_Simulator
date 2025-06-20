@@ -57,8 +57,8 @@ The system was built using a modular design approach:
 
 Clocking and signal transitions were handled through a custom `clockDivider`, and `buttonPress` ensured clean hour transitions without signal bounce.
 
-**Check out the Lab 6 Report for more details on Testbenching, Wavefiles and simualted scenarios. The lab report also includes diagrams to help you understand the 
-structure of this system**
+**Lab report**: Check out the Lab 6 Report for more details on Testbenching, Wavefiles and simualted scenarios. The lab report also includes diagrams to help you understand the 
+structure of this system
 ---
 
 ## Skills Demonstrated
