@@ -1,6 +1,6 @@
-# FPGA Parking Lot Simulator – DE1_SoC
+# FPGA Parking Lot Simulator
 
-This project implements a parking lot monitoring system using SystemVerilog and an Intel DE1-SoC board. The system simulates an 8-hour working day, tracking vehicle entry and exit in a 3-space parking lot via the LabsLand 3D simulator. It utilizes FSMs, RAM storage, and HEX display outputs to monitor real-time activity, rush hour stats, and lot occupancy.
+This project implements a parking lot monitoring system using SystemVerilog and an FPGA board. The system simulates an 8-hour working day, tracking vehicle entry and exit in a 3-space parking lot via the LabsLand 3D simulator. It utilizes FSMs, RAM storage, and HEX display outputs to monitor real-time activity, rush hour stats, and lot occupancy.
 
 ---
 
